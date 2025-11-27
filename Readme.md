@@ -9,7 +9,7 @@ Your task is to count the number of ricecorn in the image `figs/rice.png` and to
 
 ### Step 1: Accessing the repository
 - You need a GitHub account.
-- Start the exercise by visiting the repository link: [https://classroom.github.com/a/q4O_3JXp](https://classroom.github.com/a/q4O_3JXp).
+- Start the exercise by visiting the repository link: [https://classroom.github.com/a/q4O_3JXp](https://classroom.github.com/a/q4O_3JXp)
 - Clone or download the repository to your computer.
 
 ### Step 2: Solve the task
